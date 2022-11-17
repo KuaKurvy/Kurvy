@@ -1,0 +1,15 @@
+<html>
+
+ <head><title>My Works</title></head>
+
+<body bgcolor="Yellow">
+<br><a href="biodata.html">My Biodata</a></br>
+
+<br><a href="Color Name.html">Rainbow IgN</a></br>
+
+<br><a href="Purple.html">Purple</a></br>
+
+<br><a href="Orange.html">Orange</a></br>
+
+<br><a href="Red.html">Red</a></br>
+</body>
